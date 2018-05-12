@@ -1,0 +1,40 @@
+_repo: Track-s-EndBeing-the-Narrative-of-Judson-Pitcher-s-Strange-Winter-Spent-There-As-Told-by-Hims__28873
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Carleton, Clifford
+    birthdate: 1867
+    deathdate: 1946
+    gutenberg_agent_id: '33565'
+    url: http://www.gutenberg.org/2009/agents/33565
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Carruth, Hayden
+    birthdate: 1862
+    deathdate: 1932
+    gutenberg_agent_id: '6805'
+    url: http://www.gutenberg.org/2009/agents/6805
+description: ''
+gutenberg_issued: '2009-05-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28873'
+  lccn: '11023058'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Winter -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Dakota Territory -- Fiction'
+- !lcsh 'Adventure stories'
+- !lcsh 'Young men -- Fiction'
+title: "Track's End\r\nBeing the Narrative of Judson Pitcher's Strange Winter Spent\
+  \ There as Told by Himself and Edited by Hayden Carruth Including an Accurate Account\
+  \ of His Numerous Adventures, and the Facts Concerning His Several Surprising Escapes\
+  \ from Death Now First Printed in Full"
+url: http://www.gutenberg.org/ebooks/28873
