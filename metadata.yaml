@@ -18,6 +18,8 @@ creator:
     gutenberg_agent_id: '6805'
     url: http://www.gutenberg.org/2009/agents/6805
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28873#Track-s-EndBeing-the-Narrative-of-Judson-Pitcher-s-Strange-Winter-Spent-There-As-Told-by-Hims_
 gutenberg_issued: '2009-05-19'
 gutenberg_type: Text
 identifiers:
